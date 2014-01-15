@@ -11,4 +11,6 @@
 *.DS_Store
 __MACOSX/*
 
+# Some files
+.vagrant/
 
