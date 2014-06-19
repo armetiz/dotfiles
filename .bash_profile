@@ -7,3 +7,7 @@ alias brignais="/usr/local/bin/synergyc 192.168.1.102"
 alias makepwd="date | md5"
 alias workspace="cd /Users/armetiz/Documents/Workspace && ll"
 alias ll="ls -alh --color"
+
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
+fi
