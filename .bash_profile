@@ -1,3 +1,5 @@
+export COMPOSER_HOME=/Users/armetiz/.composer
+export PATH="$COMPOSER_HOME/vendor/bin:$PATH"
 export HOMEBREW_GITHUB_API_TOKEN=aeda35826eb7949881ec5f1efe3c2dcd46f5aec4
 export PATH="/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:$PATH"
 
