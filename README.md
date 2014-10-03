@@ -10,6 +10,7 @@ Used on MacBookPro 10.9
 * watch
 * wget
 * node
+* mtr
 * git
 * icu4c
 * iperf

@@ -1,4 +1,8 @@
 #!/bin/bash
 
-curl https://raw.github.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
+brew install zsh
+chsh -s /bin/zsh
 
+git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+
+ln -s .zshrc ~/.zshrc
