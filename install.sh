@@ -1,5 +1,8 @@
 #!/bin/bash
 
+mkdir -p $HOME/Documents/Workspace
+mkdir -p $HOME/Documents/Projects
+
 brew install zsh
 chsh -s /bin/zsh
 
