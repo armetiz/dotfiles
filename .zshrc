@@ -2,7 +2,7 @@
 export ZSH=$HOME/.oh-my-zsh
 export EDITOR='vim'
 
-export COMPOSER_HOME=/Users/armetiz/.composer
+export COMPOSER_HOME=$HOME/.composer
 export HOMEBREW_GITHUB_API_TOKEN=aeda35826eb7949881ec5f1efe3c2dcd46f5aec4
 export PATH="/usr/local/sbin:/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:COMPOSER_HOME/vendor/bin:$PATH"
 
