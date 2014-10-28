@@ -6,8 +6,10 @@ export COMPOSER_HOME=$HOME/.composer
 export HOMEBREW_GITHUB_API_TOKEN=aeda35826eb7949881ec5f1efe3c2dcd46f5aec4
 export PATH="/usr/local/sbin:/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:COMPOSER_HOME/vendor/bin:$PATH"
 
+export PROJECTS="/Volumes/thomas/Wozbe\ -\ EURL/Projets/"
+
 alias workspace="cd $HOME/Documents/Workspace"
-alias projects="cd $HOME/Documents/Projects"
+alias projects="cd $PROJECTS"
 
 ZSH_THEME="robbyrussell"
 
