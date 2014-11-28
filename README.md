@@ -12,6 +12,7 @@ Used on MacBookPro 10.9
 * node
 * mtr
 * git
+* lorem
 * icu4c
 * iperf
 * chrome
