@@ -38,6 +38,7 @@
     st = status
     ci = commit
     co = checkout
+    spp = !git stash && git pull && git stash pop
 
 [push]
 	default = simple
