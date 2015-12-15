@@ -29,3 +29,4 @@ Used on MacBookPro 10.9
 * firefox
 * filezilla
 * alfred2
+* git-crypt
