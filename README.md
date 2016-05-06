@@ -2,11 +2,15 @@
 
 Used on MacBookPro 10.9
 
-**Update the install.sh script with brew & brew-cask**
+```bash
+./install.sh
+./deps.sh
+```
 
-* php55
-* php55-intl
-* php55-xdebug
+This will install : 
+* php70
+* php70-intl
+* php70-xdebug
 * watch
 * wget
 * node
