@@ -1,11 +1,13 @@
 # DotFiles
 
-Used on MacBookPro 10.9
+Used on MacBookPro 10.9 & 10.11
 
 ```bash
 ./install.sh
 ./deps.sh
 ```
+
+Get fresh token from github and copy it to `.zshrc`
 
 This will install : 
 * php70
@@ -34,3 +36,7 @@ This will install :
 * filezilla
 * alfred2
 * git-crypt
+
+
+Also :
+* https://github.com/VundleVim/Vundle.vim

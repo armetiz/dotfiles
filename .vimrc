@@ -5,7 +5,7 @@ filetype off            " required for vundle
 set undofile
 set undodir=~/.vim/undodir
 
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim/
 call vundle#rc()
 
 " let Vundle manage Vundle, required 

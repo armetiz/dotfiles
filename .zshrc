@@ -3,7 +3,7 @@ export ZSH=$HOME/.oh-my-zsh
 export EDITOR='vim'
 
 export COMPOSER_HOME=$HOME/.composer
-export HOMEBREW_GITHUB_API_TOKEN=39866232b1b0a5fdd2234190fdf68e3a5594bab4
+export HOMEBREW_GITHUB_API_TOKEN=PUT_TOKEN_HERE
 export PATH="/usr/local/sbin:/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:COMPOSER_HOME/vendor/bin:$PATH"
 
 export PROJECTS="/Volumes/thomas/Wozbe\ -\ EURL/Projets/"
