@@ -11,5 +11,5 @@ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 
 ln -s .zshrc ~/.zshrc
 
-brew tap phinze/homebrew-cask
+brew tap caskroom/cask
 brew install brew-cask
