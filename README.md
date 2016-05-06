@@ -19,7 +19,7 @@ This will install :
 * lorem
 * icu4c
 * iperf
-* chrome
+* google-chrome
 * vlc
 * vagrant
 * virtualbox
