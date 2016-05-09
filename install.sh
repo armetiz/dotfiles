@@ -5,7 +5,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo -e "Running."
 
-    mkdir -p $HOME/Documents/Workspace
+    mkdir -p $HOME/Workspace
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
