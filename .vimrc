@@ -231,7 +231,6 @@ hi Todo          term=standout ctermfg=0 ctermbg=14 guifg=Green4 guibg=DeepSkyBl
 hi Type          term=underline ctermfg=10 gui=bold guifg=Cyan4
 hi Underlined    term=underline cterm=underline ctermfg=9 gui=underline guifg=SteelBlue1
 hi VertSplit     term=reverse cterm=reverse guifg=DarkSlateGray guibg=Gray90
-hi Visual        term=reverse cterm=reverse guibg=MacSelectedTextBackgroundColor
 hi VisualNOS     term=bold,underline cterm=bold,underline gui=bold,underline
 hi WarningMsg    term=standout ctermfg=12 guifg=Firebrick2
 hi WildMenu      term=standout ctermfg=0 ctermbg=14 guifg=White guibg=SkyBlue

@@ -6,4 +6,4 @@ brew tap homebrew/homebrew-php
 
 brew install php70 php70-intl php70-xdebug watch wget mtr git git-crypt lorem icu4c iperf ansible composer
 
-brew cask install iterm2 vlc alfred virtualbox vagrant spectacle sublime-text slack skype phpstorm limechat google-chrome firefox filezilla 1password vnc-viewer disk-inventory-x sequel-pro
+brew cask install iterm2 vlc alfred virtualbox vagrant spectacle sublime-text slack skype phpstorm limechat google-chrome firefox filezilla 1password vnc-viewer disk-inventory-x sequel-pro unrarx
