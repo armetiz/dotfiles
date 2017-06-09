@@ -7,6 +7,7 @@ export HOMEBREW_GITHUB_API_TOKEN=PUT_TOKEN_HERE
 export PATH="/usr/local/sbin:/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:COMPOSER_HOME/vendor/bin:$PATH"
 
 alias workspace="cd $HOME/Workspace"
+alias monip="curl ipecho.net/plain ; echo"
 
 ZSH_THEME="robbyrussell"
 
