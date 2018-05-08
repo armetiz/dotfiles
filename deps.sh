@@ -8,5 +8,6 @@ brew install php71 php71-intl php71-xdebug watch wget mtr git git-crypt lorem ic
 brew cask install iterm2 vlc alfred vagrant spectacle sublime-text google-chrome firefox disk-inventory-x sequel-pro
 brew cask install skype 1password phpstorm slack
 brew cask install virtualbox virtualbox-extension-pack
+brew cask install tunnelbear
 
 vagrant plugin install vagrant-vbguest
