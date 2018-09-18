@@ -9,5 +9,6 @@ brew cask install iterm2 vlc alfred vagrant spectacle sublime-text google-chrome
 brew cask install skype 1password phpstorm slack
 brew cask install virtualbox virtualbox-extension-pack
 brew cask install tunnelbear
+brew cask install deezer
 
 # vagrant plugin install vagrant-vbguest
