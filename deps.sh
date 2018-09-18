@@ -10,4 +10,4 @@ brew cask install skype 1password phpstorm slack
 brew cask install virtualbox virtualbox-extension-pack
 brew cask install tunnelbear
 
-vagrant plugin install vagrant-vbguest
+# vagrant plugin install vagrant-vbguest
