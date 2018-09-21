@@ -5,6 +5,7 @@
 .generators
 .rakeTasks
 .idea
+.phpstorm_helpers/
 
 
 # OSX
