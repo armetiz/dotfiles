@@ -42,6 +42,6 @@
     delete-merged-branches = "!git fetch; git branch --merged origin/master | grep -v -e 'master' -e '\\*' | xargs -n 1 git branch -d && git remote prune origin"
 
 [push]
-	default = simple
+    default = simple
 [pull]
-	rebase = preserve
+    rebase = merges
