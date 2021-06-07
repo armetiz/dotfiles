@@ -35,11 +35,11 @@
 [alias]
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
     diff-commit = log --color --left-right --graph --cherry-pick --oneline --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-    log-yesterday = log --graph --all --since="day.before.yesterday.midnight" --until=midnight --author="$(git config user.name)" --oneline
     st = status
     ci = commit
     co = checkout
     spp = !git stash && git pull && git stash pop
+    gone = !"git fetch -p && git for-each-ref --format '%(refname:short) %(upstream:track)' | awk '$2 == \"[gone]\" {print $1}' | xargs -r git branch -D"
 
 [push]
 	default = simple
