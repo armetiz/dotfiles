@@ -3,13 +3,9 @@
 brew upgrade
 # brew tap homebrew/homebrew-php
 # brew install php71 php71-intl php71-xdebug composer
-brew install watch wget mtr git lorem icu4c iperf ansible htop node httpie
+brew install watch wget git lorem icu4c iperf htop node
 
-brew cask install iterm2 iina alfred vagrant spectacle sublime-text google-chrome firefox disk-inventory-x sequel-pro
-brew cask install skype 1password phpstorm slack
+brew cask install iterm2 alfred vagrant spectacle sublime-text brave-browser disk-inventory-x sequel-ace
+brew cask install 1password phpstorm slack
 brew cask install virtualbox virtualbox-extension-pack
-brew cask install tunnelbear
-brew cask install deezer
-brew cask install numi
-
-# vagrant plugin install vagrant-vbguest
+brew cask install tunnelbear grandperspective
