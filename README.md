@@ -40,3 +40,15 @@ This will install :
 
 Also :
 * https://github.com/VundleVim/Vundle.vim
+
+## IDE JetBrains
+- Font: Menlo
+- Size: 14
+- Line Height: 1.3
+
+## iTerm2
+- Appearence > General > Theme: Minimal
+- Profiles > Colors > Color Presets...: Snazzy
+- Profiles > Text
+  - Font: Menlo
+  - Size: 14, 100, 150
